@@ -56,7 +56,7 @@ Fill all variables
 
 # Credits 💖
  [``SUKHPAL``](https://github.com/SUKHPAL443)
-- [Pikachu](https://github.com/PIKKU) 
+- [Pikachu](https://github.com/Pikachu01001) 
 # [BLACK MAMBA ♡](https://t.me/BLACKMAMBA_OFFICIAL)
 # [PIKACHU♠](https://t.me/pikku01001)
 
