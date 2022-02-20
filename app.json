@@ -9,7 +9,7 @@
     ],
     "website": "https://t.me/Pikku01001",
     "repository": "https://github.com/Pikachu01001/PIKKU",
-    "success_url": "https://t.me/PIKKUMUSIC_SUPPORT",
+    "success_url": "",
     "env": {
         "API_ID": {
             "description": "your APP_ID from my.telegram.org",
