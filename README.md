@@ -54,11 +54,11 @@ Fill all variables
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Pikachu01001/PIKKU&envs=ALIVE_NAME,API_HASH,API_ID,ASSISTANT_NAME,BOT_NAME,BOT_TOKEN,BOT_USERNAME,DURATION_LIMIT,GROUP_SUPPORT,OWNER_NAME,SESSION_NAME,SUDO_USERS,UPDATES_CHANNEL)
 
 
-# Credits 💖
- [``SUKHPAL``](https://github.com/SUKHPAL443)
- [``PIKACHU``](https://github.com/Pikachu01001)
-# [BLACK MAMBA ♡](https://t.me/BLACKMAMBA_OFFICIAL)
-# [PIKACHU♠](https://t.me/pikku01001)
+
+
+
+
+
 
 ### Support & Updates 🎑
 <a href="https://t.me/MAMBA_X_SUPPORT"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/MAMBA_NETWORK"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
