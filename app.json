@@ -1,15 +1,15 @@
 {
     "name": "PIKKU MUSIC",
     "description": "THIS MUSIC AND VIDE STREAM BOT IS MADE BY HELP OF PIKKA AND BLACK MAMBA.",
-    "logo": "https://te.legra.ph/file/8ab6f1047e168e034bc14.jpg",
+    "logo": "https://telegra.ph/file/935d600dde4bfa77ebd3d.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream"
     ],
-    "website": "https://t.me/Pikku01001",
-    "repository": "https://github.com/Pikachu01001/PIKKU",
-    "success_url": "https://t.me/PIKKUMUSIC_SUPPORT",
+    "website": "https://t.me/MrWick1000",
+    "repository": "https://github.com/johncarter371/PIKKU",
+    "success_url": "https://t.me/WickMusicSupport",
     "env": {
         "API_ID": {
             "description": "your APP_ID from my.telegram.org",
